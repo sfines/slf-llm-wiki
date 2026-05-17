@@ -34,3 +34,6 @@ For [Autonomous Agents](autonomous-agents.md), PKG provides a more robust [Factu
 - [Agent Factual Memory](agent-factual-memory.md)
 - [Ubiquitous Language for AI](ubiquitous-language-for-ai.md)
 - [Raw Source: Pseudo-Knowledge Graph Paper](../raw/pseudo-knowledge-graph-paper.md)
+
+---
+[🏠 Back to Home](index.md)

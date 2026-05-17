@@ -16,3 +16,6 @@ The framework relies on the model's ability to maintain context across a long se
 - [Automating Domain-Driven Design (Raw Source)](../raw/automating-ddd-paper.md)
 - [Sparring Partner Paradigm](ddd-sparring-partner.md)
 - [Error Propagation in Architectural Chains](ddd-error-propagation.md)
+
+---
+[🏠 Back to Home](index.md)

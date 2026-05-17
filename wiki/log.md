@@ -70,6 +70,10 @@ Chronological record of all ingestions, queries, and maintenance activities.
   - Total wiki pages: ~90.
   - All primary sources represented with 10-15 granular files.
   - Validated integrity of the entire knowledge graph.
+- Redesigned human-centric navigation.
+  - Transformed `/wiki/index.md` into a "Knowledge Portal" with curated reading paths.
+  - Updated root `README.md` to serve as a documentation entry point.
+  - Added "Back to Home" navigation footers to all major overview pages.
 - Ingested "Pseudo-Knowledge Graph" paper.
   - Source: "Pseudo-Knowledge Graph: Meta-Path Guided Retrieval and In-Graph Text for RAG-Equipped LLM" (Yang et al., 2025).
   - Created wiki page for PKG and updated RAG and Factual Memory pages.

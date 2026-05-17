@@ -32,3 +32,6 @@ Long-term storage of declarative knowledge. Often implemented using [RAG](rag.md
 - [Agentic State Management](agentic-state-management.md)
 - [Continual Learning](continual-learning.md)
 - [Confucius Persistent Note-Taking](confucius-persistent-notes.md)
+
+---
+[🏠 Back to Home](index.md)

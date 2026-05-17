@@ -27,3 +27,6 @@ In an Agyn team, agents are typically assigned to specialized roles:
 - [Organizational Design for Agents](organizational-design-for-agents.md)
 - [Multi-Agent Systems (MAS)](multi-agent-systems.md)
 - [Raw Source: Agyn Paper](../raw/agyn-paper.md)
+
+---
+[🏠 Back to Home](index.md)

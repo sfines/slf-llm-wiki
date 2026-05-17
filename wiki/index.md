@@ -1,8 +1,69 @@
-# LLM Wiki Index
+# Welcome to the Agentic Engineering Wiki
 
-This is the central catalog for the LLM Wiki.
+This is a living knowledge base focused on the intersection of **Domain-Driven Design (DDD)**, **Autonomous Agents**, and **Multi-Agent Systems (MAS)**. 
 
-## Categories
+---
+
+## 🗺️ Knowledge Map
+
+Explore the knowledge graph through three primary lenses:
+
+### 1. Architectural Foundations
+*How to structure agents and teams for production scalability.*
+- **[Agentic Domain-Driven Design](agentic-ddd-overview.md):** The core philosophy of using DDD as a "worldview" for agents.
+- **[Agyn Team-Based Engineering](agyn-framework.md):** Replicating human team structures for autonomous software engineering.
+- **[Confucius Code Agent](confucius-code-agent.md):** Scalable scaffolding for operating on massive repositories.
+
+### 2. Memory & State
+*How agents store, retrieve, and evolve knowledge over time.*
+- **[Agent Memory Taxonomy](agent-memory.md):** Unified forms (Token, Parametric, Latent) and functions (Working, Experiential, Factual).
+- **[Pseudo-Knowledge Graphs](pseudo-knowledge-graph.md):** Advanced RAG techniques for maintaining relational awareness.
+- **[Continual Learning](continual-learning.md):** Mechanisms for cross-session improvement.
+
+### 3. Engineering & Evolution
+*How to build, test, and automatically evolve agent harnesses.*
+- **[Agentic Harness Engineering (AHE)](agentic-harness-engineering.md):** Observability-driven evolution of prompts, tools, and middleware.
+- **[Agentic Context Engineering (ACE)](agentic-context-engineering.md):** Managing context as an evolving playbook using modular processes.
+- **[Automating DDD](ddd-prompting-framework.md):** Using agents as "sparring partners" for architectural discovery.
+
+---
+
+## 🚀 Recommended Reading Paths
+
+### New to Agentic Engineering?
+1. [Autonomous Agents](autonomous-agents.md)
+2. [Domain-Driven Design (DDD)](domain-driven-design.md)
+3. [Agentic DDD Overview](agentic-ddd-overview.md)
+4. [Agent Harness](agent-harness.md)
+
+### Building a Coding Agent?
+1. [Confucius Code Agent](confucius-code-agent.md)
+2. [Agent Sandbox Environments](agyn-sandbox-environments.md)
+3. [Hierarchical Working Memory](confucius-hierarchical-memory.md)
+4. [Terminal-Bench 2](terminal-bench-2.md)
+
+### Deep Dive: Self-Improving Systems
+1. [AHE Pillar: Decision Observability](ahe-decision-observability.md)
+2. [ACE Process: Reflection](ace-process-reflection.md)
+3. [Meta-Agent Refinement Loop](confucius-meta-agent-loop.md)
+4. [Falsifiable Contracts in AI](falsifiable-contracts-in-ai.md)
+
+---
+
+## 📚 Complete Catalog (Hierarchical)
+
+<details>
+<summary>View all 100+ pages</summary>
+
+- [Core Concepts]
+  - [Domain-Driven Design (DDD)](domain-driven-design.md)
+  - [Autonomous Agents](autonomous-agents.md)
+  - [Multi-Agent Systems (MAS)](multi-agent-systems.md)
+  - [Continual Learning](continual-learning.md)
+  - [Event Storming](event-storming.md)
+  - [Retrieval-Augmented Generation (RAG)](rag.md)
+  - [Model Context Protocol (MCP)](mcp.md)
+  - [Agentic Plan Caching](agentic-plan-caching.md)
 
 - [Agentic Domain-Driven Design](agentic-ddd-overview.md)
   - [Bounded Contexts in MAS](bounded-contexts-in-mas.md)
@@ -21,6 +82,34 @@ This is the central catalog for the LLM Wiki.
     - [Logistics Context](scm-logistics-context.md)
     - [Inventory Context](scm-inventory-context.md)
     - [Demand Planning Context](scm-demand-planning-context.md)
+
+- [Agent Memory](agent-memory.md)
+  - [Memory Functions](agent-memory.md#taxonomy-of-memory-functions)
+    - [Working Memory](agent-working-memory.md)
+    - [Experiential Memory](agent-experiential-memory.md)
+    - [Factual Memory](agent-factual-memory.md)
+  - [Memory Realizations](agent-memory.md#memory-realizations-forms)
+    - [Token-Level Memory](agent-token-level-memory.md)
+    - [Parametric Memory](agent-parametric-memory.md)
+    - [Latent Memory](agent-latent-memory.md)
+  - [Memory Dynamics](agent-memory.md#memory-dynamics-lifecycle)
+    - [Memory Formation](agent-memory-formation.md)
+    - [Memory Evolution](agent-memory-evolution.md)
+    - [Memory Retrieval](agent-memory-retrieval.md)
+  - [Memory Automation](agent-memory-automation.md)
+  - [Multi-Agent Memory](multi-agent-memory-architectures.md)
+
+- [Advanced Retrieval (RAG)](rag.md)
+  - [Pseudo-Knowledge Graph (PKG)](pseudo-knowledge-graph.md)
+    - [In-Graph Text Preservation](pkg-in-graph-text.md)
+    - [Meta-Path Retrieval](pkg-meta-path-retrieval.md)
+    - [Multi-Modal Retrieval Pipeline](pkg-multi-modal-retrieval.md)
+    - [PKG Construction Algorithm](pkg-construction-algorithm.md)
+    - [MultiHop-RAG Benchmarking](multihop-rag-evaluation.md)
+    - [Relational Awareness in RAG](rag-relational-awareness.md)
+    - [RAG Context Fragmentation](rag-context-fragmentation.md)
+    - [Vector Information Density](vector-information-density.md)
+
 - [Agentic Harness Engineering](agentic-harness-engineering.md)
   - [Agent Harness](agent-harness.md)
   - [AHE Pillar: Component Observability](ahe-component-observability.md)
@@ -45,6 +134,7 @@ This is the central catalog for the LLM Wiki.
     - [ACE Process: Generation](ace-process-generation.md)
     - [ACE Process: Reflection](ace-process-reflection.md)
     - [ACE Process: Curation](ace-process-curation.md)
+
 - [Confucius Code Agent](confucius-code-agent.md)
   - [Confucius SDK Perspectives (AX, UX, DX)](confucius-sdk-perspectives.md)
     - [Agent Experience (AX) Design](confucius-ax-design.md)
@@ -56,6 +146,7 @@ This is the central catalog for the LLM Wiki.
   - [Meta-Agent Refinement Loop](confucius-meta-agent-loop.md)
   - [Context Saturation Mitigation](context-saturation-mitigation.md)
   - [SWE-Bench-Pro Analysis](swe-bench-pro.md)
+
 - [Agyn Team-Based Engineering](agyn-framework.md)
   - [Team-Based Autonomous SE](team-based-software-engineering.md)
   - [Organizational Design for Agents](organizational-design-for-agents.md)
@@ -69,6 +160,7 @@ This is the central catalog for the LLM Wiki.
   - [Agent Sandbox Environments](agyn-sandbox-environments.md)
   - [Structured Agent Communication](structured-agent-communication.md)
   - [SWE-bench 500 Evaluation](swe-bench-500.md)
+
 - [Automating Domain-Driven Design](ddd-prompting-framework.md)
   - [Prompting Framework for DDD](ddd-prompting-framework.md)
   - [Event Storming Simulation](ddd-event-storming-simulation.md)
@@ -79,37 +171,14 @@ This is the central catalog for the LLM Wiki.
   - [Error Propagation in Design](ddd-error-propagation.md)
   - [Ubiquitous Language Generation](ddd-ubiquitous-language-automation.md)
   - [FTAPI Validation Study](ddd-ftapi-validation.md)
-- Core Concepts
-  - [Domain-Driven Design (DDD)](domain-driven-design.md)
-  - [Autonomous Agents](autonomous-agents.md)
-  - [Multi-Agent Systems (MAS)](multi-agent-systems.md)
-  - [Continual Learning](continual-learning.md)
-  - [Event Storming](event-storming.md)
-  - [Retrieval-Augmented Generation (RAG)](rag.md)
-  - [Pseudo-Knowledge Graph (PKG)](pseudo-knowledge-graph.md)
-    - [In-Graph Text Preservation](pkg-in-graph-text.md)
-    - [Meta-Path Retrieval](pkg-meta-path-retrieval.md)
-    - [Multi-Modal Retrieval Pipeline](pkg-multi-modal-retrieval.md)
-    - [PKG Construction Algorithm](pkg-construction-algorithm.md)
-    - [MultiHop-RAG Benchmarking](multihop-rag-evaluation.md)
-    - [Relational Awareness in RAG](rag-relational-awareness.md)
-    - [RAG Context Fragmentation](rag-context-fragmentation.md)
-    - [Vector Information Density](vector-information-density.md)
-  - [Model Context Protocol (MCP)](mcp.md)
-  - [Agentic Plan Caching](agentic-plan-caching.md)
-- [Agent Memory](agent-memory.md)
-  - [Memory Functions](agent-memory.md#taxonomy-of-memory-functions)
-    - [Working Memory](agent-working-memory.md)
-    - [Experiential Memory](agent-experiential-memory.md)
-    - [Factual Memory](agent-factual-memory.md)
-  - [Memory Realizations](agent-memory.md#memory-realizations-forms)
-    - [Token-Level Memory](agent-token-level-memory.md)
-    - [Parametric Memory](agent-parametric-memory.md)
-    - [Latent Memory](agent-latent-memory.md)
-  - [Memory Dynamics](agent-memory.md#memory-dynamics-lifecycle)
-    - [Memory Formation](agent-memory-formation.md)
-    - [Memory Evolution](agent-memory-evolution.md)
-    - [Memory Retrieval](agent-memory-retrieval.md)
-  - [Memory Automation](agent-memory-automation.md)
-  - [Multi-Agent Memory](multi-agent-memory-architectures.md)
+
 - [System Logs](log.md)
+
+</details>
+
+---
+
+## 🛠️ Maintenance
+
+- **[Activity Log](log.md):** Track the chronological evolution of this wiki.
+- **Raw Sources:** Detailed summaries of the primary research papers in `/raw`.

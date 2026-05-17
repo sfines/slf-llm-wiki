@@ -1,15 +1,28 @@
-# SLF LLM Wiki
+# SLF LLM Wiki: Agentic Engineering
 
-A personal knowledge base built and maintained by LLMs, following the [LLM Wiki Pattern](https://gist.github.com/sfines/8cfcd2339577ee432aafd8ccd8ddc8ac).
+A high-fidelity personal knowledge base focused on the intersection of **Domain-Driven Design**, **Autonomous Agents**, and **Multi-Agent Systems**.
 
-## Getting Started
+---
 
-1. Add raw source documents to the `raw/` directory.
-2. Ask your AI agent to "ingest" the new sources into the `wiki/`.
-3. Browse the `wiki/index.md` to explore your knowledge graph.
+## 🧭 Start Here
 
-## Structure
+The wiki is organized into several high-level tracks for easier navigation:
 
-- `/raw`: Immutable source documents.
-- `/wiki`: LLM-managed knowledge files.
-- `GEMINI.md`: Project instructions and schema.
+👉 **[Wiki Home & Knowledge Map](wiki/index.md)**
+
+### Quick Links
+- **[Architectural Foundations](wiki/index.md#1-architectural-foundations):** How to structure scalable agent teams.
+- **[Memory & State](wiki/index.md#2-memory--state):** Unified taxonomy for agentic memory.
+- **[Engineering & Evolution](wiki/index.md#3-engineering--evolution):** Evolving agent harnesses and contexts.
+
+---
+
+## 🏗️ Structure
+
+- **[`/wiki`](wiki/index.md):** 100+ pages of deep technical documentation and conceptual guides.
+- **[`/raw`](raw/):** Immutable source records and summaries of primary research papers.
+- **[`GEMINI.md`](GEMINI.md):** Project mandates and engineering standards.
+
+## 🤖 For Agents
+
+This wiki follows the **LLM Wiki Pattern**. When adding new sources, refer to `GEMINI.md` for ingestion workflows and structural mandates.

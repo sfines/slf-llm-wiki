@@ -31,3 +31,6 @@ Every edit is paired with a [Self-Declared Prediction](self-declared-predictions
 - [Autonomous Agents](autonomous-agents.md)
 - [Agentic Context Engineering (ACE)](agentic-context-engineering.md)
 - [Raw Source: Agentic Harness Engineering Paper](../raw/agentic-harness-engineering-paper.md)
+
+---
+[🏠 Back to Home](index.md)

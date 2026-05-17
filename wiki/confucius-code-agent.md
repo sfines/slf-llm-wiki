@@ -23,3 +23,6 @@ A key feature of CCA is its **[Meta-Agent Refinement Loop](confucius-meta-agent-
 - [Agent Harness](agent-harness.md)
 - [Multi-Agent Systems (MAS)](multi-agent-systems.md)
 - [Raw Source: Confucius Code Agent Paper](../raw/confucius-code-agent-paper.md)
+
+---
+[🏠 Back to Home](index.md)
