@@ -66,9 +66,10 @@ Chronological record of all ingestions, queries, and maintenance activities.
   - Defined the "Sparring Partner" paradigm and the "Error Propagation" problem.
   - Documented the FTAPI Validation Study.
   - Updated `/wiki/index.md` and optimized internal cross-references.
-- Ingested "APWA: A Distributed Architecture for Parallelizable Agentic Workflows" paper.
-  - Source: "APWA: A Distributed Architecture for Parallelizable Agentic Workflows" (Rose et al., 2026).
-  - Created 13 wiki pages covering architecture, dynamic decomposition, parallel patterns, and scaling performance.
+- Ingested "GAMBIT: A Three-Mode Benchmark for Adversarial Robustness in Multi-Agent LLM Collectives" paper.
+  - Source: "GAMBIT: A Three-Mode Benchmark for Adversarial Robustness in Multi-Agent LLM Collectives" (Mercier et al., 2026).
+  - Created 11 wiki pages covering the three-mode benchmark, adaptive imposters, fast recalibration, and the recalibration gap.
+  - Defined specific technical modules: Adversarial Evolutionary Framework and substrate reasoning problems.
   - Updated `/wiki/index.md` and added back-to-home navigation.
 - Finalized Structural Expansion Mandate.
   - Total wiki pages: ~90.

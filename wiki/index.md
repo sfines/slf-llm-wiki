@@ -14,6 +14,7 @@ Explore the knowledge graph through three primary lenses:
 - **[Agyn Team-Based Engineering](agyn-framework.md):** Replicating human team structures for autonomous software engineering.
 - **[Confucius Code Agent](confucius-code-agent.md):** Scalable scaffolding for operating on massive repositories.
 - **[APWA: Distributed Parallel Workloads](apwa-overview.md):** Distributed architecture for high-throughput processing.
+- **[GAMBIT: Adversarial Robustness](gambit-overview.md):** Benchmarking and defending against adaptive imposters in MAS.
 
 ### 2. Memory & State
 *How agents store, retrieve, and evolve knowledge over time.*
@@ -174,6 +175,18 @@ Explore the knowledge graph through three primary lenses:
   - [Enterprise Workloads](apwa-enterprise-workloads.md)
   - [Comparison with Sequential Systems](apwa-vs-sequential-systems.md)
   - [Evaluation Results](apwa-evaluation-results.md)
+
+- [GAMBIT Adversarial Robustness](gambit-overview.md)
+  - [Three-Mode Benchmark](gambit-three-mode-benchmark.md)
+  - [Adaptive Imposter Dynamics](gambit-adaptive-imposter.md)
+  - [Adversarial Evolutionary Framework](adversarial-evolutionary-framework.md)
+  - [Fast Recalibration for Defense](gambit-fast-recalibration.md)
+  - [Imposter Detector Evaluation](gambit-detector-evaluation.md)
+  - [Recalibration Gap Analysis](recalibration-gap-in-defense.md)
+  - [Substrate Reasoning Problems](substrate-reasoning-problems.md)
+  - [GAMBIT Dataset Metrics](gambit-dataset-metrics.md)
+  - [Evaluation Results](gambit-evaluation-results.md)
+  - [Multi-Agent Adversarial Robustness](adversarial-robustness-mas.md)
 
 - [Automating Domain-Driven Design](ddd-prompting-framework.md)
   - [Prompting Framework for DDD](ddd-prompting-framework.md)
