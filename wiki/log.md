@@ -66,6 +66,10 @@ Chronological record of all ingestions, queries, and maintenance activities.
   - Defined the "Sparring Partner" paradigm and the "Error Propagation" problem.
   - Documented the FTAPI Validation Study.
   - Updated `/wiki/index.md` and optimized internal cross-references.
+- Ingested "APWA: A Distributed Architecture for Parallelizable Agentic Workflows" paper.
+  - Source: "APWA: A Distributed Architecture for Parallelizable Agentic Workflows" (Rose et al., 2026).
+  - Created 13 wiki pages covering architecture, dynamic decomposition, parallel patterns, and scaling performance.
+  - Updated `/wiki/index.md` and added back-to-home navigation.
 - Finalized Structural Expansion Mandate.
   - Total wiki pages: ~90.
   - All primary sources represented with 10-15 granular files.

@@ -13,6 +13,7 @@ Explore the knowledge graph through three primary lenses:
 - **[Agentic Domain-Driven Design](agentic-ddd-overview.md):** The core philosophy of using DDD as a "worldview" for agents.
 - **[Agyn Team-Based Engineering](agyn-framework.md):** Replicating human team structures for autonomous software engineering.
 - **[Confucius Code Agent](confucius-code-agent.md):** Scalable scaffolding for operating on massive repositories.
+- **[APWA: Distributed Parallel Workloads](apwa-overview.md):** Distributed architecture for high-throughput processing.
 
 ### 2. Memory & State
 *How agents store, retrieve, and evolve knowledge over time.*
@@ -160,6 +161,19 @@ Explore the knowledge graph through three primary lenses:
   - [Agent Sandbox Environments](agyn-sandbox-environments.md)
   - [Structured Agent Communication](structured-agent-communication.md)
   - [SWE-bench 500 Evaluation](swe-bench-500.md)
+
+- [APWA Distributed Workloads](apwa-overview.md)
+  - [APWA Architecture](apwa-architecture.md)
+  - [Dynamic Task Decomposition](apwa-dynamic-decomposition.md)
+  - [Non-Interfering Subproblems](apwa-non-interfering-subproblems.md)
+  - [Parallel Execution Patterns](apwa-parallel-execution-patterns.md)
+  - [Distributed Reasoning Primitives](distributed-reasoning-primitives.md)
+  - [Scaling & Performance](apwa-scaling-performance.md)
+  - [Resource Management](apwa-resource-management.md)
+  - [Heterogeneous Data Support](apwa-heterogeneous-data.md)
+  - [Enterprise Workloads](apwa-enterprise-workloads.md)
+  - [Comparison with Sequential Systems](apwa-vs-sequential-systems.md)
+  - [Evaluation Results](apwa-evaluation-results.md)
 
 - [Automating Domain-Driven Design](ddd-prompting-framework.md)
   - [Prompting Framework for DDD](ddd-prompting-framework.md)
