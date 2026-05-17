@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/gambit/adversarial-evolutionary-framework.md",
-                "mode": "preview",
+                "file": "wiki/agent-memory/agent-memory.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "adversarial-evolutionary-framework"
+              "title": "agent-memory"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/gambit/adversarial-evolutionary-framework.md",
+                "file": "wiki/agent-memory/agent-memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for adversarial-evolutionary-framework"
+              "title": "Backlinks for agent-memory"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/gambit/adversarial-evolutionary-framework.md",
+                "file": "wiki/agent-memory/agent-memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from adversarial-evolutionary-framework"
+              "title": "Outgoing links from agent-memory"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/gambit/adversarial-evolutionary-framework.md",
+                "file": "wiki/agent-memory/agent-memory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of adversarial-evolutionary-framework"
+              "title": "Outline of agent-memory"
             }
           }
         ]
@@ -185,6 +185,24 @@
   },
   "active": "219e735fa380fcb5",
   "lastOpenFiles": [
+    "insert_shielda.py",
+    "wiki/agentic-harness/autopr-exception-case-study.md",
+    "wiki/agentic-harness/agent-state-recovery.md",
+    "wiki/agentic-harness/agent-exception-flow-control.md",
+    "wiki/agentic-harness/agent-local-handling.md",
+    "wiki/agentic-harness/handling-pattern-registry.md",
+    "wiki/agentic-harness/exception-classifier.md",
+    "wiki/agentic-harness/phase-aware-recovery.md",
+    "wiki/agentic-harness/structured-handling-executor.md",
+    "wiki/agentic-harness/execution-phase-exceptions.md",
+    "wiki/agentic-harness/reasoning-phase-exceptions.md",
+    "wiki/agentic-harness/agentic-exception-taxonomy.md",
+    "wiki/agentic-harness/shielda-framework.md",
+    "raw/shielda-paper.md",
+    "wiki/agent-memory/agent-working-memory.md",
+    "wiki/agent-memory/agent-memory.md",
+    "wiki/agyn/swe-bench-500.md",
+    "wiki/gambit/adversarial-evolutionary-framework.md",
     "wiki/index.md",
     "wiki/log.md",
     "AGENTS.md",
@@ -194,26 +212,8 @@
     "wiki/automating-ddd/ddd-ubiquitous-language-automation.md",
     "wiki/automating-ddd/ddd-technical-mapping.md",
     "wiki/automating-ddd/ddd-sparring-partner.md",
-    "wiki/automating-ddd/ddd-prompting-framework.md",
-    "wiki/automating-ddd/ddd-ftapi-validation.md",
-    "wiki/automating-ddd/ddd-event-storming-simulation.md",
-    "wiki/automating-ddd/ddd-error-propagation.md",
-    "wiki/automating-ddd/ddd-bounded-context-identification.md",
-    "wiki/automating-ddd/ddd-aggregate-design.md",
     "wiki/automating-ddd",
-    "wiki/gambit/substrate-reasoning-problems.md",
-    "wiki/gambit/recalibration-gap-in-defense.md",
-    "wiki/gambit/gambit-three-mode-benchmark.md",
-    "wiki/gambit/gambit-overview.md",
-    "wiki/gambit/gambit-fast-recalibration.md",
-    "wiki/gambit/gambit-evaluation-results.md",
-    "wiki/gambit/gambit-detector-evaluation.md",
-    "wiki/gambit/gambit-dataset-metrics.md",
-    "wiki/gambit/gambit-adaptive-imposter.md",
-    "wiki/gambit/adversarial-robustness-mas.md",
-    "wiki/gambit/adversarial-evolutionary-framework.md",
     "wiki/gambit",
-    "wiki/apwa/distributed-reasoning-primitives.md",
     "wiki/apwa",
     "wiki/agyn",
     "wiki/confucius",

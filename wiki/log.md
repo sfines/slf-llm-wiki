@@ -87,3 +87,4 @@ Chronological record of all ingestions, queries, and maintenance activities.
   - Extracted full text/detailed summaries for all 7 primary sources via arXiv/web fetch.
   - Refined and expanded 10 core wiki pages and raw source records with high-fidelity technical details, architectural modules, and experimental benchmarks (e.g., AHE pillars, CCA perspectives, ACE process results, PKG MultiHop-RAG performance).
   - Validated all internal links and optimized cross-references.
+- **Ingested SHIELDA Paper:** Extracted full text from Zotero and performed incremental slicing into 12 atomic concept pages under `agentic-harness/`, capturing the taxonomy of 36 exception types and the modular runtime exception handling framework for LLM agentic workflows.
