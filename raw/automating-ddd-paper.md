@@ -5,7 +5,7 @@
 **Source:** arXiv:2603.26244
 
 ## Summary
-While not describing "Agentic DDD" as an architectural pattern for MAS, this paper explores the use of agents to **perform** the activities of traditional [Domain-Driven Design (DDD)](domain-driven-design.md).
+While not describing "Agentic DDD" as an architectural pattern for MAS, this paper explores the use of agents to **perform** the activities of traditional [Domain-Driven Design (DDD)](../wiki/core-concepts/domain-driven-design.md).
 
 ## The Five-Step Framework
 The authors propose a sequential prompting framework for automating DDD:
@@ -25,7 +25,7 @@ The prompting framework was validated against real-world requirements from **FTA
 - **Context Collapse:** The research highlights the risk of "context collapse" in long architectural sequences, where details are lost as the process moves from high-level discovery to low-level design.
 
 ## Relevance to Agentic DDD
-This work shows how LLMs can be used to *bootstrap* the very structures (Bounded Contexts, Ubiquitous Language) that [Agentic DDD](agentic-ddd-overview.md) uses to build autonomous systems.
+This work shows how LLMs can be used to *bootstrap* the very structures (Bounded Contexts, Ubiquitous Language) that [Agentic DDD](../wiki/agentic-ddd/agentic-ddd-overview.md) uses to build autonomous systems.
 
 ## Reference
 Eisenreich, T., Jusic, H., & Wagner, S. (2026). Automating Domain-Driven Design: Experience with a Prompting Framework. arXiv preprint arXiv:2603.26244.

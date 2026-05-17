@@ -16,9 +16,9 @@ This survey provides a comprehensive landscape of agent memory research, clarify
 - **Latent Memory:** Stored in the model's internal activations or hidden states. This is an emerging area aiming for efficient, dynamic state management without large-scale retraining.
 
 ### 2. Functions (Usage)
-- **[Working Memory](agent-working-memory.md):** Transient information relevant to the immediate task (e.g., current reasoning trace).
-- **[Factual Memory](agent-factual-memory.md):** Long-term storage of declarative knowledge (e.g., repository structure, API documentation).
-- **[Experiential Memory](agent-experiential-memory.md):** Storage of past trajectories, including successful plans and failure post-mortems, enabling [Continual Learning](continual-learning.md).
+- **[Working Memory](../wiki/agent-memory/agent-working-memory.md):** Transient information relevant to the immediate task (e.g., current reasoning trace).
+- **[Factual Memory](../wiki/agent-memory/agent-factual-memory.md):** Long-term storage of declarative knowledge (e.g., repository structure, API documentation).
+- **[Experiential Memory](../wiki/agent-memory/agent-experiential-memory.md):** Storage of past trajectories, including successful plans and failure post-mortems, enabling [Continual Learning](../wiki/core-concepts/continual-learning.md).
 
 ### 3. Dynamics (Lifecycle)
 - **Formation:** The process of filtering and encoding raw experiences into memory.

@@ -6,7 +6,7 @@
 **DOI:** 10.48550/arXiv.2503.00309
 
 ## Abstract Summary
-This paper introduces the **Pseudo-Knowledge Graph (PKG)** framework to address limitations in traditional [RAG](rag.md) systems, particularly fragmented answers and lack of relational awareness in low-information-density databases. PKG integrates **Meta-path Retrieval**, **In-graph Text**, and **Vector Retrieval** to provide a richer knowledge representation and more precise information retrieval.
+This paper introduces the **Pseudo-Knowledge Graph (PKG)** framework to address limitations in traditional [RAG](../wiki/advanced-retrieval/rag.md) systems, particularly fragmented answers and lack of relational awareness in low-information-density databases. PKG integrates **Meta-path Retrieval**, **In-graph Text**, and **Vector Retrieval** to provide a richer knowledge representation and more precise information retrieval.
 
 ## Core Mechanisms
 1.  **Pseudo-Knowledge Graph (PKG):** A framework that preserves natural language text within a graph structure, bridging the gap between unstructured text and formal knowledge graphs.

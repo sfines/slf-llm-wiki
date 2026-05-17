@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/gambit/adversarial-evolutionary-framework.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "adversarial-evolutionary-framework"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/gambit/adversarial-evolutionary-framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for adversarial-evolutionary-framework"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/gambit/adversarial-evolutionary-framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from adversarial-evolutionary-framework"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/gambit/adversarial-evolutionary-framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of adversarial-evolutionary-framework"
             }
           }
         ]
@@ -185,36 +185,41 @@
   },
   "active": "219e735fa380fcb5",
   "lastOpenFiles": [
-    "wiki/adversarial-evolutionary-framework.md",
-    "wiki/substrate-reasoning-problems.md",
-    "wiki/recalibration-gap-in-defense.md",
-    "wiki/gambit-adaptive-imposter.md",
-    "wiki/gambit-fast-recalibration.md",
-    "wiki/gambit-dataset-metrics.md",
-    "wiki/gambit-evaluation-results.md",
-    "wiki/gambit-detector-evaluation.md",
-    "wiki/gambit-overview.md",
-    "wiki/adversarial-robustness-mas.md",
-    "wiki/gambit-three-mode-benchmark.md",
-    "raw/gambit-paper.md",
-    "wiki/appworld-evaluation.md",
-    "wiki/apwa-enterprise-workloads.md",
-    "wiki/apwa-resource-management.md",
-    "wiki/apwa-vs-sequential-systems.md",
-    "wiki/distributed-reasoning-primitives.md",
-    "wiki/apwa-scaling-performance.md",
-    "wiki/apwa-evaluation-results.md",
-    "wiki/apwa-parallel-execution-patterns.md",
-    "wiki/apwa-heterogeneous-data.md",
-    "wiki/apwa-dynamic-decomposition.md",
-    "wiki/apwa-non-interfering-subproblems.md",
-    "wiki/apwa-overview.md",
-    "wiki/apwa-architecture.md",
-    "raw/apwa-paper.md",
-    "wiki_files.txt",
-    "indexed_files.txt",
-    "required_files.txt",
-    "existing_files.txt",
-    "links.txt"
+    "wiki/index.md",
+    "wiki/log.md",
+    "AGENTS.md",
+    "wiki/agentic-ddd/bounded-contexts-in-mas.md",
+    "wiki/agentic-ddd/agentic-ddd-overview.md",
+    "fix_links.py",
+    "wiki/automating-ddd/ddd-ubiquitous-language-automation.md",
+    "wiki/automating-ddd/ddd-technical-mapping.md",
+    "wiki/automating-ddd/ddd-sparring-partner.md",
+    "wiki/automating-ddd/ddd-prompting-framework.md",
+    "wiki/automating-ddd/ddd-ftapi-validation.md",
+    "wiki/automating-ddd/ddd-event-storming-simulation.md",
+    "wiki/automating-ddd/ddd-error-propagation.md",
+    "wiki/automating-ddd/ddd-bounded-context-identification.md",
+    "wiki/automating-ddd/ddd-aggregate-design.md",
+    "wiki/automating-ddd",
+    "wiki/gambit/substrate-reasoning-problems.md",
+    "wiki/gambit/recalibration-gap-in-defense.md",
+    "wiki/gambit/gambit-three-mode-benchmark.md",
+    "wiki/gambit/gambit-overview.md",
+    "wiki/gambit/gambit-fast-recalibration.md",
+    "wiki/gambit/gambit-evaluation-results.md",
+    "wiki/gambit/gambit-detector-evaluation.md",
+    "wiki/gambit/gambit-dataset-metrics.md",
+    "wiki/gambit/gambit-adaptive-imposter.md",
+    "wiki/gambit/adversarial-robustness-mas.md",
+    "wiki/gambit/adversarial-evolutionary-framework.md",
+    "wiki/gambit",
+    "wiki/apwa/distributed-reasoning-primitives.md",
+    "wiki/apwa",
+    "wiki/agyn",
+    "wiki/confucius",
+    "wiki/agentic-harness",
+    "wiki/agent-memory",
+    "wiki/agentic-ddd",
+    "wiki/advanced-retrieval"
   ]
 }
