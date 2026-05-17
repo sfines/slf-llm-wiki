@@ -8,6 +8,12 @@ This project follows the **LLM Wiki** pattern for incremental knowledge building
 2. **The Wiki (`/wiki`)**: LLM-generated markdown files, entity pages, and concept summaries.
 3. **Assets (`/raw/assets`)**: Local images and media referenced by the wiki.
 
+## Source Handling
+
+1. When ingesting sources using Zotero or other library managers, do not rely solely on the abstract, but fetch the full paper and perform the ingestion upon the full contents of the file. 
+2. If there are multiple versions of the same source, Ask the user which version they would like to use.
+3. Do not attempt to read pdfs from the Zotero library directly. Use the URL attribute for the Zotero entry to fetch the full Paper / Article
+
 ## Navigation
 
 - **Index (`/wiki/index.md`)**: Categorized catalog of all wiki pages.

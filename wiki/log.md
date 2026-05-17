@@ -4,3 +4,77 @@ Chronological record of all ingestions, queries, and maintenance activities.
 
 ## 2026-05-17
 - Project initialized according to the [LLM Wiki Pattern](https://gist.github.com/sfines/8cfcd2339577ee432aafd8ccd8ddc8ac).
+- Expanded "Agentic Domain-Driven Design" knowledge base to 14 pages (meeting source mandate).
+  - Added granular pages for Domain Events, Rich Domain Models, Autonomy Boundaries, and Strategic Mapping Protocols.
+  - Decomposed SCM Case Study into specific context pages (Procurement, Logistics, Inventory, Demand Planning).
+  - Updated `/wiki/index.md` and optimized internal cross-references.
+- Expanded "Agentic Harness Engineering" knowledge base to 13 pages.
+  - Added granular pages for Terminal-Bench 2, Agent Debugger, Self-Declared Predictions, and Falsifiable Contracts.
+  - Defined specific harness components: Shell-Tool Guardrails and Execution-Risk Middleware.
+  - Documented the Factual vs. Prose Transfer findings.
+  - Updated `/wiki/index.md` and optimized internal cross-references.
+- Expanded "Confucius Code Agent" knowledge base to 11 pages.
+  - Added granular pages for Meta-Agent Loop, Unified Orchestrator, and SWE-Bench-Pro Analysis.
+  - Defined the three design perspectives: AX, UX, DX.
+  - Documented Context Saturation Mitigation strategies.
+  - Updated `/wiki/index.md` and optimized internal cross-references.
+- Performed wiki maintenance/linting.
+  - Identified and fixed 7 broken links by creating core concept pages (DDD, MAS, RAG, etc.).
+  - Added "Core Concepts" section to `/wiki/index.md`.
+- Ingested "Agentic Harness Engineering" knowledge base.
+  - Source: "Agentic Harness Engineering" (Lin et al., 2026).
+  - Source: "Agentic Context Engineering" (Zhang et al., 2025).
+  - Created 7 wiki pages covering AHE overview, Agent Harnesses, the three pillars (Component, Experience, Decision Observability), and ACE.
+  - Expanded ACE ingestion with 3 detailed process pages (Generation, Reflection, Curation).
+  - Updated `/wiki/index.md` with the new categories.
+- Ingested "Confucius Code Agent" knowledge base.
+  - Source: "Confucius Code Agent: Scalable Agent Scaffolding for Real-World Codebases" (Wong et al., 2025).
+  - Created 5 wiki pages covering CCA overview, SDK perspectives (AX, UX, DX), hierarchical memory, persistent notes, and continual learning.
+- Ingested "Memory in the Age of AI Agents" survey.
+  - Source: "Memory in the Age of AI Agents" (Hu et al., 2025).
+  - Created 5 wiki pages covering agent memory taxonomy (Forms, Functions, Dynamics) and detailed pages for Working, Experiential, and Factual memory.
+  - Updated `/wiki/index.md` with the new category.
+- Ingested "Agyn" knowledge base.
+  - Source: "Agyn: A Multi-Agent System for Team-Based Autonomous Software Engineering" (Benkovich & Valkov, 2026).
+  - Created 4 wiki pages covering Agyn framework, team-based SE, and organizational design for agents.
+  - Updated `/wiki/index.md` and optimized internal cross-references.
+- Expanded "Agyn" knowledge base to 12 pages.
+  - Added granular pages for all agent roles: Coordinator, Researcher, Implementer, Reviewer.
+  - Documented SWE-bench 500 evaluation results.
+  - Defined Sandbox Environments and Structured Multi-Agent Communication.
+  - Formalized Collaborative Issue Resolution and Organizational Process Modeling.
+  - Updated `/wiki/index.md` and `/wiki/multi-agent-systems.md`.
+- Expanded "Memory in the Age of AI Agents" knowledge base to 12 pages.
+  - Added granular pages for Memory Forms: Token-Level, Parametric, Latent.
+  - Added granular pages for Memory Dynamics: Formation, Evolution, Retrieval.
+  - Defined emerging frontiers: Memory Automation and Multi-Agent Memory Architectures.
+  - Updated `/wiki/index.md` and optimized internal cross-references.
+- Expanded "Pseudo-Knowledge Graph" knowledge base to 10 pages.
+  - Added granular pages for In-Graph Text, Meta-Path Retrieval, and Multi-Modal Retrieval.
+  - Defined the PKG Construction Algorithm.
+  - Documented performance on the MultiHop-RAG benchmark.
+  - Formalized RAG concepts: Relational Awareness, Context Fragmentation, and Information Density.
+  - Updated `/wiki/index.md` and optimized internal cross-references.
+- Expanded "Agentic Context Engineering" knowledge base to 14 pages.
+  - Added granular pages for Dynamic Cheatsheets, Adaptive Memory, and Modular Refinement.
+  - Formalized failure modes and mitigations: Context Collapse and Brevity Bias.
+  - Documented the role of Natural Execution Feedback and the AppWorld evaluation.
+  - Defined Offline vs. Online Context Optimization modes.
+  - Updated `/wiki/index.md` and optimized internal cross-references.
+- Expanded "Automating Domain-Driven Design" knowledge base to 11 pages.
+  - Added granular pages for the five-step Prompting Framework.
+  - Defined the "Sparring Partner" paradigm and the "Error Propagation" problem.
+  - Documented the FTAPI Validation Study.
+  - Updated `/wiki/index.md` and optimized internal cross-references.
+- Finalized Structural Expansion Mandate.
+  - Total wiki pages: ~90.
+  - All primary sources represented with 10-15 granular files.
+  - Validated integrity of the entire knowledge graph.
+- Ingested "Pseudo-Knowledge Graph" paper.
+  - Source: "Pseudo-Knowledge Graph: Meta-Path Guided Retrieval and In-Graph Text for RAG-Equipped LLM" (Yang et al., 2025).
+  - Created wiki page for PKG and updated RAG and Factual Memory pages.
+  - Updated `/wiki/index.md`.
+- Performed deep source analysis and wiki refinement.
+  - Extracted full text/detailed summaries for all 7 primary sources via arXiv/web fetch.
+  - Refined and expanded 10 core wiki pages and raw source records with high-fidelity technical details, architectural modules, and experimental benchmarks (e.g., AHE pillars, CCA perspectives, ACE process results, PKG MultiHop-RAG performance).
+  - Validated all internal links and optimized cross-references.
