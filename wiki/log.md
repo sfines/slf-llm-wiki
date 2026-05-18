@@ -96,3 +96,7 @@ Chronological record of all ingestions, queries, and maintenance activities.
 - **Ingested Multi-Agent VC Due Diligence Paper:** Extracted 12 atomic concept pages into `agyn/` covering multi-agent due diligence frameworks, DAG-structured orchestration, and financial hallucination mitigation.
 - **Added Area Synthesis Pages:** Generated `*-synthesis.md` files for all 10 major catalog areas, summarizing the "State of Current Thought" and "Areas of Controversy" for each.
 - **Updated Ingestion Protocols:** Modified `AGENTS.md` and `GEMINI.md` to require future ingestion agents to actively weave new insights and controversies into these synthesis pages.
+
+- **Automating DDD & GAMBIT Synthesis Expansion:** Expanded synthesis files for `automating-ddd` and `gambit` domains using concepts and raw research papers to detail key elements, benefits, and domain controversies.
+
+- **2026-05-17**: Expanded area synthesis files for `advanced-retrieval` and `agent-memory` based on recent literature, incorporating definitions, core algorithms, controversies, and defining paper citations.

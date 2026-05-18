@@ -27,6 +27,16 @@ This project follows the **LLM Wiki** pattern for incremental knowledge building
 Each area directory contains an `<area>-synthesis.md` file. Whenever you ingest a new source into an area, you **must** update its corresponding synthesis file. The update should:
 - Weave the new insights into the "State of Current Thought" section to highlight the most current thinking.
 - Explicitly outline any new or existing debates in the "Areas of Controversy / Ongoing Conversation" section so they can be understood as areas of ongoing conversation.
+- A good synthesis contains: 
+	- definition of key terms
+	- key algorithms (if algorithmic)
+	- Defining paper citations
+	- Summary of the field
+	- Summary of the Most important 3 - 5 elements of that area
+	- Main benefits to that area
+	- Main drawbacks to that area
+	- Technical Domain
+	- Business Domain (if relevant)
 
 When adding a new source to `/raw`:
 1. Analyze the source.
