@@ -58,6 +58,7 @@ Explore the knowledge graph through three primary lenses:
 <summary>View all 100+ pages</summary>
 
 - [Core Concepts]
+  - [**Area Synthesis: Core Concepts**](core-concepts/core-concepts-synthesis.md)
   - [Domain-Driven Design (DDD)](core-concepts/domain-driven-design.md)
   - [Autonomous Agents](core-concepts/autonomous-agents.md)
   - [Multi-Agent Systems (MAS)](core-concepts/multi-agent-systems.md)
@@ -68,6 +69,7 @@ Explore the knowledge graph through three primary lenses:
   - [Agentic Plan Caching](core-concepts/agentic-plan-caching.md)
 
 - [Agentic Domain-Driven Design](agentic-ddd/agentic-ddd-overview.md)
+  - [**Area Synthesis: Agentic Ddd**](agentic-ddd/agentic-ddd-synthesis.md)
   - [Portable Agent Authorization](agentic-ddd/portable-agent-authorization.md)
     - [Agent Identity vs Authorization](agentic-ddd/agent-identity-vs-authorization.md)
     - [Three-Layer Authorization Architecture](agentic-ddd/three-layer-authorization-architecture.md)
@@ -98,6 +100,7 @@ Explore the knowledge graph through three primary lenses:
     - [Demand Planning Context](agentic-ddd/scm-demand-planning-context.md)
 
 - [Agent Memory](agent-memory/agent-memory.md)
+  - [**Area Synthesis: Agent Memory**](agent-memory/agent-memory-synthesis.md)
   - [Memory Functions](agent-memory/agent-memory.md#taxonomy-of-memory-functions)
     - [Working Memory](agent-memory/agent-working-memory.md)
     - [Experiential Memory](agent-memory/agent-experiential-memory.md)
@@ -126,6 +129,7 @@ Explore the knowledge graph through three primary lenses:
     - [LLM Instruction Tuning for Event Summarization](agent-memory/llm-instruction-tuning-for-event-summarization.md)
 
 - [Advanced Retrieval (RAG)](advanced-retrieval/rag.md)
+  - [**Area Synthesis: Advanced Retrieval**](advanced-retrieval/advanced-retrieval-synthesis.md)
   - [Pseudo-Knowledge Graph (PKG)](advanced-retrieval/pseudo-knowledge-graph.md)
     - [In-Graph Text Preservation](advanced-retrieval/pkg-in-graph-text.md)
     - [Meta-Path Retrieval](advanced-retrieval/pkg-meta-path-retrieval.md)
@@ -137,6 +141,7 @@ Explore the knowledge graph through three primary lenses:
     - [Vector Information Density](advanced-retrieval/vector-information-density.md)
 
 - [Agentic Harness Engineering](agentic-harness/agentic-harness-engineering.md)
+  - [**Area Synthesis: Agentic Harness**](agentic-harness/agentic-harness-synthesis.md)
   - [Agent Harness](agentic-harness/agent-harness.md)
   - [AHE Pillar: Component Observability](agentic-harness/ahe-component-observability.md)
     - [Shell-Tool Guardrails](agentic-harness/ahe-shell-tool-guardrails.md)
@@ -210,6 +215,7 @@ Explore the knowledge graph through three primary lenses:
     - [AgentLeak Case Study](agentic-harness/agentleak-case-study.md)
 
 - [Confucius Code Agent](confucius/confucius-code-agent.md)
+  - [**Area Synthesis: Confucius**](confucius/confucius-synthesis.md)
   - [Confucius SDK Perspectives (AX, UX, DX)](confucius/confucius-sdk-perspectives.md)
     - [Agent Experience (AX) Design](confucius/confucius-ax-design.md)
     - [User Experience (UX) for Autonomy](confucius/confucius-ux-design.md)
@@ -222,6 +228,7 @@ Explore the knowledge graph through three primary lenses:
   - [SWE-Bench-Pro Analysis](confucius/swe-bench-pro.md)
 
 - [Agyn Team-Based Engineering](agyn/agyn-framework.md)
+  - [**Area Synthesis: Agyn**](agyn/agyn-synthesis.md)
   - [Team-Based Autonomous SE](agyn/team-based-software-engineering.md)
   - [Organizational Design for Agents](agyn/organizational-design-for-agents.md)
   - [Organizational Process Modeling](agyn/organizational-process-modeling.md)
@@ -248,6 +255,7 @@ Explore the knowledge graph through three primary lenses:
     - [Multi-Agent Corporate Research Pipeline](agyn/multi-agent-corporate-research-pipeline.md)
 
 - [APWA Distributed Workloads](apwa/apwa-overview.md)
+  - [**Area Synthesis: Apwa**](apwa/apwa-synthesis.md)
   - [APWA Architecture](apwa/apwa-architecture.md)
   - [Dynamic Task Decomposition](apwa/apwa-dynamic-decomposition.md)
   - [Non-Interfering Subproblems](apwa/apwa-non-interfering-subproblems.md)
@@ -261,6 +269,7 @@ Explore the knowledge graph through three primary lenses:
   - [Evaluation Results](apwa/apwa-evaluation-results.md)
 
 - [GAMBIT Adversarial Robustness](gambit/gambit-overview.md)
+  - [**Area Synthesis: Gambit**](gambit/gambit-synthesis.md)
   - [Three-Mode Benchmark](gambit/gambit-three-mode-benchmark.md)
   - [Adaptive Imposter Dynamics](gambit/gambit-adaptive-imposter.md)
   - [Adversarial Evolutionary Framework](gambit/adversarial-evolutionary-framework.md)
@@ -273,6 +282,7 @@ Explore the knowledge graph through three primary lenses:
   - [Multi-Agent Adversarial Robustness](gambit/adversarial-robustness-mas.md)
 
 - [Automating Domain-Driven Design](automating-ddd/ddd-prompting-framework.md)
+  - [**Area Synthesis: Automating Ddd**](automating-ddd/automating-ddd-synthesis.md)
   - [Prompting Framework for DDD](automating-ddd/ddd-prompting-framework.md)
   - [Event Storming Simulation](automating-ddd/ddd-event-storming-simulation.md)
   - [Automated Bounded Contexts](automating-ddd/ddd-bounded-context-identification.md)

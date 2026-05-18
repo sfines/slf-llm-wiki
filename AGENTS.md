@@ -16,6 +16,12 @@ Run these to verify graph integrity after creating, renaming, or modifying files
 *Command order:* `python lint_wiki.py && python lint_raw.py`
 
 ## Ingestion Workflow & Quirks
+
+### Synthesis Maintenance
+Each area directory contains an `<area>-synthesis.md` file. Whenever you ingest a new source into an area, you **must** update its corresponding synthesis file. The update should:
+- Weave the new insights into the "State of Current Thought" section to highlight the most current thinking.
+- Explicitly outline any new or existing debates in the "Areas of Controversy / Ongoing Conversation" section so they can be understood as areas of ongoing conversation.
+
 - **Full Text Sourcing:** When pulling from Zotero or external sources, fetch the *full* article text to build the `raw/` document. Do not rely solely on the abstract. Do not attempt to read local PDFs directly; use the URL to fetch the content.
 - **Incremental Slicing:** A single raw paper should usually spawn or update multiple (e.g., 10-15) highly-focused concept files in `wiki/`, rather than generating one giant summary.
 - **Format:** Pure Markdown only. Do not use YAML/JSON frontmatter.

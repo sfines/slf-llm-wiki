@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/constraint-drift-paper.md",
+                "file": "wiki/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "constraint-drift-paper"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/constraint-drift-paper.md",
+                "file": "wiki/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for constraint-drift-paper"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/constraint-drift-paper.md",
+                "file": "wiki/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from constraint-drift-paper"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/constraint-drift-paper.md",
+                "file": "wiki/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of constraint-drift-paper"
+              "title": "Outline of index"
             }
           }
         ]
@@ -183,8 +183,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "61a5d5af0651936a",
+  "active": "219e735fa380fcb5",
   "lastOpenFiles": [
+    "update_instructions.py",
+    "wiki/gambit/gambit-synthesis.md",
+    "wiki/core-concepts/core-concepts-synthesis.md",
+    "wiki/confucius/confucius-synthesis.md",
+    "wiki/automating-ddd/automating-ddd-synthesis.md",
+    "wiki/apwa/apwa-synthesis.md",
+    "wiki/agyn/agyn-synthesis.md",
+    "wiki/agentic-harness/agentic-harness-synthesis.md",
+    "wiki/agentic-ddd/agentic-ddd-synthesis.md",
+    "wiki/agent-memory/agent-memory-synthesis.md",
+    "wiki/advanced-retrieval/advanced-retrieval-synthesis.md",
+    "setup_synthesis.py",
+    "raw/constraint-drift-paper.md",
     "insert_vc.py",
     "wiki/agyn/multi-agent-corporate-research-pipeline.md",
     "wiki/agyn/multi-agent-market-intelligence-synthesis.md",
@@ -201,25 +214,12 @@
     "insert_econai.py",
     "wiki/agent-memory/generative-agent-societies.md",
     "wiki/agent-memory/llm-instruction-tuning-for-event-summarization.md",
-    "wiki/agent-memory/agent-work-consumption-dynamics.md",
-    "wiki/agent-memory/economic-belief-quantification.md",
-    "wiki/agent-memory/household-vs-firm-agent-roles.md",
-    "wiki/agent-memory/agent-memory-weighting.md",
-    "wiki/agent-memory/long-term-strategic-economic-planning.md",
-    "wiki/agent-memory/agent-event-memory-perception.md",
-    "wiki/agent-memory/macro-micro-economic-unified-modeling.md",
-    "wiki/agent-memory/dynamic-persona-evolution.md",
-    "wiki/agent-memory/economic-sentiment-indexing.md",
-    "wiki/agent-memory/econai-framework.md",
     "insert_constraint_drift.py",
-    "raw/skillops-paper.md",
     "insert_skillgen.py",
     "insert_digital_identity.py",
     "insert_skillops.py",
     "insert_shielda.py",
     "fix_links.py",
-    "wiki/automating-ddd",
-    "wiki/gambit",
-    "wiki/apwa"
+    "wiki/automating-ddd"
   ]
 }
