@@ -33,6 +33,8 @@ The foundational principles of Agentic Engineering merge Domain-Driven Design (D
 - **Oversight and Governance:** Truly autonomous agents require sophisticated guardrails to ensure compliance and avoid catastrophic runaway actions.
 
 ## Areas of Controversy / Ongoing Conversation
+- **Inference-Time Scaling vs Physical Context:** Whether to rely on massive physical context windows (which suffer from Context Rot) or scale inference compute dynamically (e.g. Recursive Language Models).
+- **Agent Coordination Paradigms:** The trade-offs between Centralized, Hierarchical, Heterarchical, and Holonic coordination paradigms, especially when dealing with dynamically coupled constraints in shared environments.
 - **Definition of Agency:** The boundary between a complex, tool-using deterministic RAG pipeline and a truly autonomous probabilistic agent remains philosophically and technically blurred.
 - **Plan Caching vs. Novel Generation:** Reusing cached agentic plans improves speed and cost but risks applying outdated logic to dynamic environments, bypassing the adaptive reasoning LLMs are prized for.
 - **Centralized Orchestration vs. Distributed Choreography:** Whether multi-agent systems should rely on a central "manager" agent or purely react peer-to-peer based on event emission.
@@ -42,6 +44,8 @@ The foundational principles of Agentic Engineering merge Domain-Driven Design (D
 - **Business Domain:** Enterprise integration, workflow automation, knowledge retrieval.
 
 ## Defining Paper Citations
+- Recursive Language Models (Zhang et al., 2025)
+- When Does Hierarchy Help? Benchmarking Agent Coordination (Wang et al., 2026)
 - [Designing Scalable Multi-Agent AI Systems: Leveraging Domain-Driven Design and Event Storming](../../raw/nandi-dey-2025.md)
 - [Digital Identity for Agentic Systems: Toward a Portable Authorization Standard for Autonomous Agents](../../raw/digital-identity-agentic-systems-paper.md)
 - [Automating Domain-Driven Design: Experience with a Prompting Framework](../../raw/automating-ddd-paper.md)

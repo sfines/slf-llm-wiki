@@ -40,6 +40,7 @@ Domain-Driven Design (DDD) provides the architectural blueprint for scaling Mult
 - **Orchestration Overhead:** Managing multi-principal workflows with disparate credentials requires sophisticated receiver-side workflow policies.
 
 ## Areas of Controversy / Ongoing Conversation
+- **Architectural Topology Selection:** Deciding which execution topology (Chain, Route, Hierarchy, etc.) optimally balances latency, compute cost, and blast radius for a given cognitive function.
 - **Strict Autonomy vs. Orchestration:** Should agents be purely reactive to event streams (choreography), or does the non-deterministic nature of LLMs necessitate a central orchestrator to manage state and resolve conflicts?
 - **Authorization Attenuation:** Implementing multi-principal workflow composition without unintentionally widening an agent's authority across domains remains a highly complex implementation challenge.
 - **LLM as Architect:** The extent to which LLMs can autonomously design system architectures is debated, with current consensus favoring LLMs as "collaborative sparring partners" rather than solo architects due to context collapse.
@@ -49,6 +50,7 @@ Domain-Driven Design (DDD) provides the architectural blueprint for scaling Mult
 - **Business Domain:** Supply Chain Management (SCM) (e.g., procurement, logistics, inventory), Insurance Claims Processing, High-assurance manufacturing.
 
 ## Defining Paper Citations
+- A Two-Dimensional Framework for AI Agent Design Patterns (Huang & Zhou, 2026)
 - [Designing Scalable Multi-Agent AI Systems: Leveraging Domain-Driven Design and Event Storming](../../raw/nandi-dey-2025.md)
 - [Digital Identity for Agentic Systems: Toward a Portable Authorization Standard for Autonomous Agents](../../raw/digital-identity-agentic-systems-paper.md)
 - [Automating Domain-Driven Design: Experience with a Prompting Framework](../../raw/automating-ddd-paper.md)

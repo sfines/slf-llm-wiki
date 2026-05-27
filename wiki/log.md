@@ -100,3 +100,12 @@ Chronological record of all ingestions, queries, and maintenance activities.
 - **Automating DDD & GAMBIT Synthesis Expansion:** Expanded synthesis files for `automating-ddd` and `gambit` domains using concepts and raw research papers to detail key elements, benefits, and domain controversies.
 
 - **2026-05-17**: Expanded area synthesis files for `advanced-retrieval` and `agent-memory` based on recent literature, incorporating definitions, core algorithms, controversies, and defining paper citations.
+
+## May 26, 2026 - Batch Ingestion of Zotero 'AI engineering' Collection
+- Ingested *When Does Hierarchy Help? Benchmarking Agent Coordination in Event-Driven Industrial Scheduling* into `core-concepts/`.
+- Ingested *A Two-Dimensional Framework for AI Agent Design Patterns* into `agentic-ddd/`.
+- Ingested *Recursive Language Models* into `core-concepts/`.
+- Ingested *Challenges and Research Directions for Large Language Model Inference Hardware* into a new `hardware/` category.
+- Updated `index.md` taxonomy map with the new sections and links.
+- Updated synthesis files across `core-concepts`, `agentic-ddd`, and created `hardware` synthesis.
+- **Second Batch Ingestion:** Added 11 more papers from the "AI engineering" Zotero collection that were previously undiscovered. Created 28 new concept files across AI Safety, Evaluation, Advanced Retrieval, Core Concepts, Agentic Harness, and Agent Memory. Created corresponding synthesis files for AI Safety and Evaluation.

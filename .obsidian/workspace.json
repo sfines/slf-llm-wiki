@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEMINI.md",
+                "file": "wiki/agentic-harness/agentic-harness-synthesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GEMINI"
+              "title": "agentic-harness-synthesis"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEMINI.md",
+                "file": "wiki/agentic-harness/agentic-harness-synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GEMINI"
+              "title": "Backlinks for agentic-harness-synthesis"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEMINI.md",
+                "file": "wiki/agentic-harness/agentic-harness-synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GEMINI"
+              "title": "Outgoing links from agentic-harness-synthesis"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEMINI.md",
+                "file": "wiki/agentic-harness/agentic-harness-synthesis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GEMINI"
+              "title": "Outline of agentic-harness-synthesis"
             }
           }
         ]
@@ -185,41 +185,41 @@
   },
   "active": "219e735fa380fcb5",
   "lastOpenFiles": [
-    "AGENTS.md",
-    "GEMINI.md",
-    "wiki/core-concepts/continual-learning.md",
-    "wiki/core-concepts/autonomous-agents.md",
-    "wiki/core-concepts/agentic-plan-caching.md",
-    "wiki/core-concepts/domain-driven-design.md",
-    "wiki/core-concepts/event-storming.md",
-    "wiki/core-concepts/multi-agent-systems.md",
-    "wiki/gambit/adversarial-evolutionary-framework.md",
-    "wiki/gambit/recalibration-gap-in-defense.md",
-    "wiki/gambit/substrate-reasoning-problems.md",
-    "wiki/core-concepts/core-concepts-synthesis.md",
-    "wiki/core-concepts/mcp.md",
-    "wiki/index.md",
+    "wiki/evaluation/evaluation-synthesis.md",
+    "wiki/ai-safety/ai-safety-synthesis.md",
+    "wiki/core-concepts/key-value-binding-ttt.md",
+    "wiki/agent-memory/sliding-window-attention-ttt.md",
+    "wiki/core-concepts/mini-batch-test-time-training.md",
+    "wiki/agent-memory/long-context-continual-learning.md",
+    "wiki/agent-memory/end-to-end-test-time-training.md",
+    "wiki/core-concepts/adaptive-trajectory-recycling.md",
+    "wiki/core-concepts/confidence-guided-selection.md",
+    "wiki/core-concepts/guided-reflection.md",
+    "wiki/core-concepts/solver-critic-selector-architecture.md",
+    "wiki/core-concepts/rethinker-framework.md",
+    "wiki/agent-memory/data-dependent-caching.md",
+    "wiki/core-concepts/plan-act-agent-architecture.md",
+    "wiki/agent-memory/keyword-based-cache-retrieval.md",
+    "wiki/evaluation/inter-rater-reliability-llms.md",
+    "wiki/evaluation/reward-signal-synthesis.md",
+    "wiki/evaluation/dimension-aware-filtering.md",
+    "wiki/evaluation/confidence-weighted-evaluation.md",
+    "wiki/evaluation/task-adaptive-rubrics.md",
+    "wiki/advanced-retrieval/block-processing.md",
+    "wiki/advanced-retrieval/entity-resolution-filtering.md",
+    "wiki/advanced-retrieval/schema-agnostic-blocking.md",
+    "wiki/advanced-retrieval/entity-resolution-blocking.md",
+    "wiki/advanced-retrieval/entity-resolution-overview.md",
+    "raw/ttt-long-context.md",
+    "wiki/evaluation",
+    "wiki/ai-safety",
+    "patch_agentic_ddd.py",
+    "patch_core.py",
+    "patch_index.py",
+    "wiki/hardware",
     "update_instructions.py",
-    "wiki/gambit/gambit-synthesis.md",
-    "wiki/confucius/confucius-synthesis.md",
-    "wiki/automating-ddd/automating-ddd-synthesis.md",
-    "wiki/apwa/apwa-synthesis.md",
-    "wiki/agyn/agyn-synthesis.md",
-    "wiki/agentic-harness/agentic-harness-synthesis.md",
-    "wiki/agentic-ddd/agentic-ddd-synthesis.md",
-    "wiki/agent-memory/agent-memory-synthesis.md",
-    "wiki/advanced-retrieval/advanced-retrieval-synthesis.md",
     "setup_synthesis.py",
-    "raw/constraint-drift-paper.md",
     "insert_vc.py",
-    "wiki/agyn/multi-agent-corporate-research-pipeline.md",
-    "wiki/agyn/multi-agent-market-intelligence-synthesis.md",
-    "insert_econai.py",
-    "insert_constraint_drift.py",
-    "insert_skillgen.py",
-    "insert_digital_identity.py",
-    "insert_skillops.py",
-    "insert_shielda.py",
-    "fix_links.py"
+    "insert_econai.py"
   ]
 }
